@@ -1,0 +1,11 @@
+{
+    "name":"cfml_calculator_app",
+    "app":{
+        "cfengine":"adobe@2023"
+    },
+    "web":{
+        "http":{
+            "port":8500
+        }
+    }
+}

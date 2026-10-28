@@ -1,0 +1,11 @@
+{
+    "name": "cfml_calculator_app",
+    "slug": "cfml_calculator_app",
+    "version": "1.0.0",
+    "shortDescription": "Simple calculator built with CFML for Adobe ColdFusion 2023",
+    "type": "projects",
+    "private": true,
+    "ignore": [
+        "**/.*"
+    ]
+}
